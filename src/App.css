@@ -1,0 +1,33 @@
+/* styles.css */
+
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.course-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.course-card h3 {
+  margin-top: 0;
+}
+
+.course-card p {
+  margin-bottom: 5px;
+}
+
+.course-listing-page {
+  text-align: center;
+}
+
+.course-details-page {
+  text-align: center;
+}
+
+.student-dashboard-page {
+  text-align: center;
+}
